@@ -1,7 +1,5 @@
 # Projeto - Tela de login
 
-<h1 align="center"> Projet Tela de login </h1>
-
 #### Descrição
 
 Este projeto foi desenvolvido como parte prática da disciplina de **Programação Front-End**, no campus da **UniCesumar Londrina**. Sob a orientação do professor [Leonardo Rocha](https://github.com/leonardossrocha), exploramos os conceitos fundamentais de **Frameworks**, utilizando o **Bootstrap** e seus componentes. Além disso, realizamos toda a configuração do ambiente de desenvolvimento, integrando ferramentas essenciais para o fluxo de trabalho de um desenvolvedor.
